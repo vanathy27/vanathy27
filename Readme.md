@@ -8,23 +8,9 @@
 
 Building **fast, reliable, and scalable mobile applications** with modern cross-platform technologies.
 
-<br/>
-
-<p align="center">
-
-<a href="https://github.com/vanathy27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vanathy27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -36,11 +22,11 @@ I'm a **Mobile App Developer** focused on creating modern cross-platform applica
 
 I enjoy transforming ideas into reliable products with **clean code, smooth performance, scalable architecture, and practical solutions**.
 
-* 📱 Cross-platform mobile development
-* ⚡ Flutter & Dart development
-* ⚛️ React Native development
-* 🔥 Firebase integration
-* 🔌 REST API integration
+* Cross-platform mobile development
+* Flutter & Dart development
+* React Native development
+* Firebase integration
+* REST API integration
 ---
 
 ## Tech Stack
@@ -133,7 +119,7 @@ Currently building a new mobile application while exploring:
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -143,30 +129,6 @@ Currently building a new mobile application while exploring:
 />
 </div>
 
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vanathy27/vanathy27/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vanathy27/vanathy27/output/github-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/vanathy27/vanathy27/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
-
-</div>
 ---
 
 ## 🤝 Let's Connect
@@ -179,13 +141,7 @@ If you're building something exciting, let's connect.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vanathy27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
-
-<br/>
-
-### `Learn · Build · Test · Improve · Ship 🚀`
+### `Learn · Build · Test · Improve · Ship`
 
 <br/>
 
