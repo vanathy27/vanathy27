@@ -129,10 +129,11 @@ Currently building a new mobile application while exploring:
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🤝 Let's Connect
 
-<div align="center">
+
 
 I'm always interested in **mobile development, new technologies, and interesting projects**.
 
