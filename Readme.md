@@ -133,26 +133,40 @@ Currently building a new mobile application while exploring:
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanathy27&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanathy27&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=vanathy27&hide_border=true&theme=transparent"
+  alt="GitHub Contribution Streak"
+/>
 </div>
 
 ---
 
-## Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vanathy27/vanathy27/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vanathy27/vanathy27/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vanathy27/vanathy27/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/vanathy27/vanathy27/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
