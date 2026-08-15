@@ -33,13 +33,13 @@ I enjoy transforming ideas into reliable products with **clean code, smooth perf
 ### Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,react,kotlin,android" />
+<img src="https://skillicons.dev/icons?i=flutter,react,kotlin" />
 </p>
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,typescript,javascript,kotlin" />
+<img src="https://skillicons.dev/icons?i=dart,typescript,javascript" />
 </p>
 
 ### Backend & Services
