@@ -58,7 +58,7 @@ I enjoy transforming ideas into reliable products with **clean code, smooth perf
 
 ## 🚀 Featured Projects
 
-### Flutter Application
+### Flyra
 
 A modern cross-platform mobile application built with **Flutter and Dart**, focused on performance, usability, and maintainable architecture.
 
@@ -78,7 +78,7 @@ A modern cross-platform mobile application built with **Flutter and Dart**, focu
 
 ---
 
-### ⚛️ React Native Application
+### Leafer
 
 A cross-platform mobile application built with **React Native and TypeScript**, designed for consistent performance across Android and iOS.
 
@@ -95,26 +95,6 @@ A cross-platform mobile application built with **React Native and TypeScript**, 
 `React Native` `TypeScript` `REST API`
 
 [**View Project →**](YOUR_REACT_NATIVE_PROJECT_URL)
-
----
-
-### 🔥 Firebase Project
-
-A mobile application using Firebase for **authentication, cloud database, and real-time application functionality**.
-
-**Tech Stack**
-
-`Flutter` `Firebase` `Firestore`
-
-[**View Project →**](YOUR_FIREBASE_PROJECT_URL)
-
----
-
-### 🚧 Current Project
-
-Currently building a new mobile application while exploring:
-
-`Mobile Architecture` · `Performance` · `State Management` · `Developer Tools`
 
 ---
 
