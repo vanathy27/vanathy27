@@ -1,181 +1,180 @@
 <div align="center">
 
 # Hi, I'm Vanathy 👋
-### Mobile App Developer · Flutter · Dart · React Native
 
-I design and build **clean, intuitive, user-centered mobile experiences** —
-turning ideas into polished products, from user flows and interfaces to fully functional cross-platform apps.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Flutter+Developer+%F0%9F%93%B1;Building+Modern+Mobile+Applications+%F0%9F%9A%80;Learning.+Building.+Improving." alt="Typing Animation"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+Building **fast, reliable, and scalable mobile applications** with modern cross-platform technologies.
+
+<br/>
+
+<p align="center">
+
+<a href="https://github.com/vanathy27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## ✦ What I Do
+## About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm a **Mobile App Developer** focused on creating modern cross-platform applications.
 
-### 📱 Mobile Development
-Building responsive, reliable, and performant apps for iOS & Android with modern cross-platform frameworks.
+I enjoy transforming ideas into reliable products with **clean code, smooth performance, scalable architecture, and practical solutions**.
 
-- Flutter & Dart
-- React Native
-- Android (Kotlin basics)
-- Firebase (Auth, Firestore, FCM)
-- REST APIs & GraphQL
+* 📱 Cross-platform mobile development
+* ⚡ Flutter & Dart development
+* ⚛️ React Native development
+* 🔥 Firebase integration
+* 🔌 REST API integration
+---
 
-</td>
-<td width="50%" valign="top">
+## Tech Stack
 
-### 🎨 Product & UI/UX
-Designing experiences that are simple, accessible, and enjoyable to use — from research to high-fidelity UI.
+### Mobile Development
 
-- User Research
-- Wireframing & Prototyping
-- Design Systems
-- Interaction & Motion Design
-- Accessibility-first Design
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,kotlin,android" />
+</p>
 
-</td>
-</tr>
-</table>
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=dart,typescript,javascript,kotlin" />
+</p>
+
+### Backend & Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,sqlite" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Featured Projects
 
-**Mobile**
+### Flutter Application
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+A modern cross-platform mobile application built with **Flutter and Dart**, focused on performance, usability, and maintainable architecture.
 
-**Design**
+**Features**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+* 🔐 Authentication
+* 🔌 REST API integration
+* 🔥 Firebase services
+* 📱 Responsive layouts
+* 🔔 Push notifications
 
-**Development & Tools**
+**Tech Stack**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+`Flutter` `Dart` `Firebase` `REST API`
+
+[**View Project →**](YOUR_FLUTTER_PROJECT_URL)
 
 ---
 
-## 🚀 Selected Projects
+### ⚛️ React Native Application
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A cross-platform mobile application built with **React Native and TypeScript**, designed for consistent performance across Android and iOS.
 
-### 📱 01 · Flutter Mobile App
-**A clean and intuitive mobile experience**
+**Features**
 
-A production-style app solving a real-world problem — simple navigation, thoughtful micro-interactions, and a modern interface.
+* 🔐 Authentication
+* 🔌 API integration
+* 🧭 Dynamic navigation
+* 🧩 Reusable components
+* 📱 Cross-platform support
 
-`Flutter` `Dart` `Firebase`
-
-[**View Project →**](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 02 · UI/UX Case Study
-**From idea → prototype → product**
-
-A complete design process: research, user flows, wireframes, high-fidelity UI, and an interactive prototype.
-
-`Figma` `UI/UX` `Prototyping`
-
-[**View Project →**](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚛️ 03 · React Native App
-**Cross-platform, one codebase**
-
-A cross-platform mobile app built with React Native, focused on smooth navigation and native-feel performance.
+**Tech Stack**
 
 `React Native` `TypeScript` `REST API`
 
-[**View Project →**](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚧 04 · Coming Soon
-**Building something new...**
-
-Currently exploring ideas that combine mobile development with thoughtful, accessible design.
-
-`In Progress`
-
-</td>
-</tr>
-</table>
+[**View Project →**](YOUR_REACT_NATIVE_PROJECT_URL)
 
 ---
 
-## 📈 GitHub Stats
+### 🔥 Firebase Project
+
+A mobile application using Firebase for **authentication, cloud database, and real-time application functionality**.
+
+**Tech Stack**
+
+`Flutter` `Firebase` `Firestore`
+
+[**View Project →**](YOUR_FIREBASE_PROJECT_URL)
+
+---
+
+### 🚧 Current Project
+
+Currently building a new mobile application while exploring:
+
+`Mobile Architecture` · `Performance` · `State Management` · `Developer Tools`
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vanathy27&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&stroke=888888&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanathy27&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
 </div>
 
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br>
+---
+
+## Contribution Activity
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=10&column=6" />
+
+<img src="https://raw.githubusercontent.com/vanathy27/vanathy27/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+
 </div>
-</details>
 
 ---
 
-## ✦ Currently
-
-```text
-Building     → Mobile Applications (Flutter · React Native)
-Designing    → Better User Experiences
-Learning     → Advanced App Architecture & State Management
-Exploring    → AI-assisted design workflows
-```
-
----
+## 🤝 Let's Connect
 
 <div align="center">
 
-## Let's Build Something Great
+I'm always interested in **mobile development, new technologies, and interesting projects**.
 
-I'm interested in **mobile apps, product design, UI/UX, and creative technology.**
-If you're working on something interesting, let's connect.
-
-### `Design → Develop → Iterate → Improve`
+If you're building something exciting, let's connect.
 
 <br/>
 
-<sub>Designed & built by G. Vanathy</sub>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vanathy27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+
+<br/>
+
+### `Learn · Build · Test · Improve · Ship 🚀`
+
+<br/>
+
+<sub>Built with by Vanathy</sub>
 
 </div>
