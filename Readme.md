@@ -23,7 +23,6 @@ I enjoy transforming ideas into reliable products with **clean code, smooth perf
 
 * Cross-platform mobile development
 * Flutter & Dart development
-* React Native development
 * Firebase integration
 * REST API integration
 ---
@@ -39,7 +38,7 @@ I enjoy transforming ideas into reliable products with **clean code, smooth perf
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,typescript,javascript" />
+<img src="https://skillicons.dev/icons?i=dart,javascript" />
 </p>
 
 ### Backend & Services
@@ -64,11 +63,8 @@ A modern cross-platform mobile application built with **Flutter and Dart**, focu
 
 **Features**
 
-* 🔐 Authentication
 * 🔌 REST API integration
-* 🔥 Firebase services
 * 📱 Responsive layouts
-* 🔔 Push notifications
 
 **Tech Stack**
 
