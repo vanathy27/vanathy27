@@ -17,7 +17,7 @@ Building **fast, reliable, and scalable mobile applications** with modern cross-
 
 ## About Me
 
-I'm a **Mobile App Developer** focused on creating modern cross-platform applications.
+I'm a **Software Engineer** focused on creating modern cross-platform mobile applications.
 
 I enjoy transforming ideas into reliable products with **clean code, smooth performance, scalable architecture, and practical solutions**.
 
