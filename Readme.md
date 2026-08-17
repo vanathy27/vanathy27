@@ -9,7 +9,7 @@
 Building **fast, reliable, and scalable mobile applications** with modern cross-platform technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vanathy-gnanasampanthar/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vanathysam99@gmail.com)
 
 </div>
 
@@ -17,7 +17,7 @@ Building **fast, reliable, and scalable mobile applications** with modern cross-
 
 ## About Me
 
-I'm a **Software Engineer** focused on creating modern cross-platform mobile applications.
+I'm a **Software Engineer** focused on creating modern cross-platform web & mobile applications.
 
 I enjoy transforming ideas into reliable products with **clean code, smooth performance, scalable architecture, and practical solutions**.
 
@@ -32,13 +32,13 @@ I enjoy transforming ideas into reliable products with **clean code, smooth perf
 ### Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,react,kotlin" />
+<img src="https://skillicons.dev/icons?i=flutter,react" />
 </p>
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,javascript" />
+<img src="https://skillicons.dev/icons?i=dart,javascript,python,cs,tailwind" />
 </p>
 
 ### Backend & Services
@@ -50,12 +50,12 @@ I enjoy transforming ideas into reliable products with **clean code, smooth perf
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Flyra
 
@@ -111,7 +111,7 @@ A cross-platform mobile application built with **React Native and TypeScript**, 
 
 
 
-I'm always interested in **mobile development, new technologies, and interesting projects**.
+I'm always interested in **web & mobile development, new technologies, and interesting projects**.
 
 If you're building something exciting, let's connect.
 
