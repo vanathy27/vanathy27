@@ -67,7 +67,7 @@ I enjoy transforming ideas into practical products using **clean architecture, i
 
 ### 🔧 Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
 
