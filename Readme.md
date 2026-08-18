@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Flutter+Developer;Building+Modern+Mobile+Applications;Creating+Clean+%26+Reliable+Apps;Learning.+Building.+Improving." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Building+Modern+Mobile+Applications;Creating+Clean+%26+Reliable+Apps;Learning.+Building.+Improving." alt="Typing Animation"/>
 
 <br/>
 
@@ -29,12 +29,6 @@
 ---
 
 ## 👩‍💻 About Me
-
-<div align="center">
-
-### `Software Engineer` · `Flutter Developer` · `Problem Solver`
-
-</div>
 
 I'm a **Software Engineer and Flutter Developer** passionate about creating modern cross-platform mobile applications.
 
@@ -130,16 +124,6 @@ A mobile application that uses **deep learning and image analysis** to identify 
 ---
 
 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vanathy27&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanathy27&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" height="170"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
