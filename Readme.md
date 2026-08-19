@@ -196,7 +196,7 @@ A mobile application that uses **deep learning and image analysis** to identify 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003BFF,50:0066FF,100:00C6FF&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <sub>Designed & built by Vanathy</sub>
 
