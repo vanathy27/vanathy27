@@ -93,7 +93,7 @@ A country explorer mobile application built with **Flutter and Dart**, allowing 
 
 **⚡ Tech Stack**
 
-`Flutter` `Dart` `REST API` `SQLite` `Provider`
+`Flutter` `Dart` `REST API` `Provider`
 
 [**View Project →**](YOUR_FLYRA_PROJECT_URL)
 
