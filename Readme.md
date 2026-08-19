@@ -127,7 +127,7 @@ A mobile application that uses **deep learning and image analysis** to identify 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanathy27&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanathysam&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -137,7 +137,7 @@ A mobile application that uses **deep learning and image analysis** to identify 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanathy27&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanathysam&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
